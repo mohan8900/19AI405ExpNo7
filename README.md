@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3> NAME : Aishwarya S </h3>
-<h3> REG NO : 212222100003 </h3>
+<h3> NAME : A K MOHAN RAJ </h3>
+<h3> REG NO : 212221230064 </h3>
 
 # Aim: 
 
